@@ -1,2 +1,2 @@
-# eda-pandas
-exploratory data analysis with pandas
+# ml-course
+exploratory data analysis, machine learning
